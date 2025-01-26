@@ -93,9 +93,9 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 ## License 📜
 This project is licensed under the MIT License.
 
-## Acknowledgements 🙏
-OpenAI and the Python community for inspiration.
-Developers of the libraries and tools used in this project.
+## Acknowledgements 🙌
+- OpenAI and the Python community for inspiration.
+- Developers of the libraries and tools used in this project.
 
 ## Happy Coding 💻✨
 
