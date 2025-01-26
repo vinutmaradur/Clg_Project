@@ -97,4 +97,4 @@ This project is licensed under the MIT License.
 OpenAI and the Python community for inspiration.
 Developers of the libraries and tools used in this project.
 
-## Happy Coding **
+## Happy Coding 
