@@ -61,7 +61,8 @@ The project uses the following libraries:
 - PyQt5
 - beautifulsoup4
 - turtle
-Install all dependencies using the **requirements.txt** file.
+
+  Install all dependencies using the **requirements.txt** file.
 
 ---
 
