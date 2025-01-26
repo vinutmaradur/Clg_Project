@@ -62,7 +62,7 @@ The project uses the following libraries:
 - beautifulsoup4
 - turtle
 
-  Install all dependencies using the **requirements.txt** file.
+  Install all dependencies using the **requirement.txt** file.
 
 ---
 
